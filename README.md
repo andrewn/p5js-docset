@@ -5,6 +5,8 @@ Very rough implementation of a [p5.js](https://p5js.org/reference/) docset for t
 
 This wraps the [p5.js offline references](https://p5js.org/offline-reference/p5-reference.zip) and indexes the methods.
 
+![](screenshot.png)
+
 Usage
 ---
 
